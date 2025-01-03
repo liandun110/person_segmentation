@@ -1,0 +1,4 @@
+numpy==2.2.0
+torch==2.5.1  # 如果版本低可能会报错
+onnxruntime==1.20.1
+opencv-python==4.10.0.84
